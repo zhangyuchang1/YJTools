@@ -39,8 +39,8 @@
     
 //**************************** 自定义样式，不加为默认样式 ****************************
     
-    [tableIndex setBageColor:[UIColor redColor]];
-    [tableIndex setTextColor:[UIColor purpleColor]];
+//    [tableIndex setBageColor:[UIColor redColor]];
+//    [tableIndex setTextColor:[UIColor purpleColor]];
 //    [tableIndex setHiddenHeaderImage];
     
     [tableIndex setHeaderImage:[UIImage imageNamed:@"crossImage"]];

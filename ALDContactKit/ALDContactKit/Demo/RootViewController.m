@@ -57,7 +57,7 @@
                             @"RadarViewController",
                             
                             nil];
-    self.title = [NSString stringWithFormat: @"欢迎使用阿拉丁联系人iOS SDK"];
+    self.title = [NSString stringWithFormat: @"YJTools 常用工具集合"];
     //适配ios7
 //    if( ([[[UIDevice currentDevice] systemVersion] doubleValue]>=7.0))
 //    {
@@ -111,7 +111,6 @@
 //    UIViewController *view = [[UIViewController alloc] init];
 //    
 //    [self.navigationController pushViewController:view animated:YES];
-    
     
     
 }

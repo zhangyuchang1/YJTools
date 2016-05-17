@@ -233,9 +233,9 @@
             [oldlayer setForegroundColor:_textColor?_textColor.CGColor:K_COLOR_LIGHTBLACK.CGColor];
         }
     }
-    [[self.layer.sublayers objectAtIndex:indx+2] setForegroundColor:RGB(255, 255, 255, 1).CGColor];
+    [(CATextLayer *)[self.layer.sublayers objectAtIndex:indx+2] setForegroundColor:RGB(255, 255, 255, 1).CGColor];
     
-    oldlayer =[self.layer.sublayers objectAtIndex:indx+2];
+    oldlayer = (CATextLayer *)[self.layer.sublayers objectAtIndex:indx+2];
     
     return 0;
 

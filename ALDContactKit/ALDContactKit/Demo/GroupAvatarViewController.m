@@ -101,9 +101,9 @@
     
 
     
-//    [self meathed_images];
+    [self meathed_images];
     
-    [self meathed_urls];
+//    [self meathed_urls];
     
 }
 

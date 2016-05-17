@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DA4AE5C1-6637-4F52-8507-314C0EB9A3A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038" : "ALDContactKit"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ALDContactKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ALDContactKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.59\/aladdin",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038"
+    }
+  ]
+}

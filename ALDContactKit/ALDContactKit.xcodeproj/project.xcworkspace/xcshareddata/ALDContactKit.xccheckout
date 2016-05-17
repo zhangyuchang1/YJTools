@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA4AE5C1-6637-4F52-8507-314C0EB9A3A5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ALDContactKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038</key>
+		<string>svn://192.168.1.59/aladdin/Code/emap/ios/ALDContactKit</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ALDContactKit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038</key>
+		<string>svn://192.168.1.59/aladdin</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.59/aladdin/Code/emap/ios/ALDContactKit/ALDContactKit.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>d8a7f853-bd29-5a48-93c9-02954cd0bb83++8038</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ALDContactKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>

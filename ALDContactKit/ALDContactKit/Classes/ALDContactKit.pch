@@ -1,0 +1,25 @@
+//
+//  ALDContacteKit.pch
+//  ALDContacteKit
+//
+//  Created by apple on 15/7/30.
+//  Copyright (c) 2015年 aladdin. All rights reserved.
+//
+
+#ifndef ALDContacteKit_ALDContacteKit_pch
+#define ALDContacteKit_ALDContacteKit_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#endif
+
+#define RGB(r,g,b,a)   [ UIColor colorWithRed:(double)r/255.0f green:(double)g/255.0f blue:(double)b/255.0f alpha:a]
+#define K_SCREEN_WIDTH  [UIScreen mainScreen].bounds.size.width
+#define K_SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+#endif
